@@ -1,0 +1,109 @@
+ID: 1, Pais: Afghanistan, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 2, Pais: Algeria, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 3, Pais: American Samoa, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 4, Pais: Angola, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 5, Pais: Anguilla, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 6, Pais: Argentina, Numero de Ciudades: 13, Numero de Direcciones: 10
+ID: 7, Pais: Armenia, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 8, Pais: Australia, Numero de Ciudades: 1, Numero de Direcciones: 2
+ID: 9, Pais: Austria, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 10, Pais: Azerbaijan, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 11, Pais: Bahrain, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 12, Pais: Bangladesh, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 13, Pais: Belarus, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 14, Pais: Bolivia, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 15, Pais: Brazil, Numero de Ciudades: 28, Numero de Direcciones: 25
+ID: 16, Pais: Brunei, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 17, Pais: Bulgaria, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 18, Pais: Cambodia, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 19, Pais: Cameroon, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 20, Pais: Canada, Numero de Ciudades: 7, Numero de Direcciones: 6
+ID: 21, Pais: Chad, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 22, Pais: Chile, Numero de Ciudades: 3, Numero de Direcciones: 2
+ID: 23, Pais: China, Numero de Ciudades: 53, Numero de Direcciones: 35
+ID: 24, Pais: Colombia, Numero de Ciudades: 6, Numero de Direcciones: 5
+ID: 25, Pais: Congo, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 26, Pais: Czech Republic, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 27, Pais: Dominican Republic, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 28, Pais: Ecuador, Numero de Ciudades: 3, Numero de Direcciones: 1
+ID: 29, Pais: Egypt, Numero de Ciudades: 6, Numero de Direcciones: 4
+ID: 30, Pais: Estonia, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 31, Pais: Ethiopia, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 32, Pais: Faroe Islands, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 33, Pais: Finland, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 34, Pais: France, Numero de Ciudades: 4, Numero de Direcciones: 4
+ID: 35, Pais: French Guiana, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 36, Pais: French Polynesia, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 37, Pais: Gambia, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 38, Pais: Germany, Numero de Ciudades: 7, Numero de Direcciones: 7
+ID: 39, Pais: Greece, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 40, Pais: Greenland, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 41, Pais: Holy See Vatican City State, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 42, Pais: Hong Kong, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 43, Pais: Hungary, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 44, Pais: India, Numero de Ciudades: 60, Numero de Direcciones: 53
+ID: 45, Pais: Indonesia, Numero de Ciudades: 14, Numero de Direcciones: 9
+ID: 46, Pais: Iran, Numero de Ciudades: 8, Numero de Direcciones: 8
+ID: 47, Pais: Iraq, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 48, Pais: Israel, Numero de Ciudades: 4, Numero de Direcciones: 3
+ID: 49, Pais: Italy, Numero de Ciudades: 7, Numero de Direcciones: 4
+ID: 50, Pais: Japan, Numero de Ciudades: 31, Numero de Direcciones: 25
+ID: 51, Pais: Kazakstan, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 52, Pais: Kenya, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 53, Pais: Kuwait, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 54, Pais: Latvia, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 55, Pais: Liechtenstein, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 56, Pais: Lithuania, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 57, Pais: Madagascar, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 58, Pais: Malawi, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 59, Pais: Malaysia, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 60, Pais: Mexico, Numero de Ciudades: 30, Numero de Direcciones: 21
+ID: 61, Pais: Moldova, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 62, Pais: Morocco, Numero de Ciudades: 3, Numero de Direcciones: 2
+ID: 63, Pais: Mozambique, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 64, Pais: Myanmar, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 65, Pais: Nauru, Numero de Ciudades: 1, Numero de Direcciones: 0
+ID: 66, Pais: Nepal, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 67, Pais: Netherlands, Numero de Ciudades: 5, Numero de Direcciones: 4
+ID: 68, Pais: New Zealand, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 69, Pais: Nigeria, Numero de Ciudades: 13, Numero de Direcciones: 12
+ID: 70, Pais: North Korea, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 71, Pais: Oman, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 72, Pais: Pakistan, Numero de Ciudades: 5, Numero de Direcciones: 5
+ID: 73, Pais: Paraguay, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 74, Pais: Peru, Numero de Ciudades: 4, Numero de Direcciones: 2
+ID: 75, Pais: Philippines, Numero de Ciudades: 20, Numero de Direcciones: 16
+ID: 76, Pais: Poland, Numero de Ciudades: 8, Numero de Direcciones: 4
+ID: 77, Pais: Puerto Rico, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 78, Pais: Romania, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 79, Pais: Runion, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 80, Pais: Russian Federation, Numero de Ciudades: 28, Numero de Direcciones: 25
+ID: 81, Pais: Saint Vincent and the Grenadines, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 82, Pais: Saudi Arabia, Numero de Ciudades: 5, Numero de Direcciones: 5
+ID: 83, Pais: Senegal, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 84, Pais: Slovakia, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 85, Pais: South Africa, Numero de Ciudades: 11, Numero de Direcciones: 10
+ID: 86, Pais: South Korea, Numero de Ciudades: 5, Numero de Direcciones: 4
+ID: 87, Pais: Spain, Numero de Ciudades: 5, Numero de Direcciones: 4
+ID: 88, Pais: Sri Lanka, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 89, Pais: Sudan, Numero de Ciudades: 2, Numero de Direcciones: 2
+ID: 90, Pais: Sweden, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 91, Pais: Switzerland, Numero de Ciudades: 3, Numero de Direcciones: 2
+ID: 92, Pais: Taiwan, Numero de Ciudades: 10, Numero de Direcciones: 6
+ID: 93, Pais: Tanzania, Numero de Ciudades: 3, Numero de Direcciones: 2
+ID: 94, Pais: Thailand, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 95, Pais: Tonga, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 96, Pais: Tunisia, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 97, Pais: Turkey, Numero de Ciudades: 15, Numero de Direcciones: 9
+ID: 98, Pais: Turkmenistan, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 99, Pais: Tuvalu, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 100, Pais: Ukraine, Numero de Ciudades: 6, Numero de Direcciones: 4
+ID: 101, Pais: United Arab Emirates, Numero de Ciudades: 3, Numero de Direcciones: 3
+ID: 102, Pais: United Kingdom, Numero de Ciudades: 8, Numero de Direcciones: 4
+ID: 103, Pais: United States, Numero de Ciudades: 35, Numero de Direcciones: 30
+ID: 104, Pais: Venezuela, Numero de Ciudades: 7, Numero de Direcciones: 5
+ID: 105, Pais: Vietnam, Numero de Ciudades: 6, Numero de Direcciones: 3
+ID: 106, Pais: Virgin Islands, Numero de Ciudades: 1, Numero de Direcciones: 1
+ID: 107, Pais: Yemen, Numero de Ciudades: 4, Numero de Direcciones: 4
+ID: 108, Pais: Yugoslavia, Numero de Ciudades: 2, Numero de Direcciones: 1
+ID: 109, Pais: Zambia, Numero de Ciudades: 1, Numero de Direcciones: 1

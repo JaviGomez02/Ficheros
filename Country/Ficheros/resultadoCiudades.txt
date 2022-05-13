@@ -1,0 +1,600 @@
+ID: 1, Ciudad: A Corua La Corua, Numero de direcciones: 1
+ID: 2, Ciudad: Abha, Numero de direcciones: 1
+ID: 3, Ciudad: Abu Dhabi, Numero de direcciones: 1
+ID: 4, Ciudad: Acua, Numero de direcciones: 0
+ID: 5, Ciudad: Adana, Numero de direcciones: 1
+ID: 6, Ciudad: Addis Abeba, Numero de direcciones: 1
+ID: 7, Ciudad: Aden, Numero de direcciones: 1
+ID: 8, Ciudad: Adoni, Numero de direcciones: 1
+ID: 9, Ciudad: Ahmadnagar, Numero de direcciones: 1
+ID: 10, Ciudad: Akishima, Numero de direcciones: 0
+ID: 11, Ciudad: Akron, Numero de direcciones: 0
+ID: 12, Ciudad: al-Ayn, Numero de direcciones: 1
+ID: 13, Ciudad: al-Hawiya, Numero de direcciones: 1
+ID: 14, Ciudad: al-Manama, Numero de direcciones: 0
+ID: 15, Ciudad: al-Qadarif, Numero de direcciones: 1
+ID: 16, Ciudad: al-Qatif, Numero de direcciones: 1
+ID: 17, Ciudad: Alessandria, Numero de direcciones: 1
+ID: 18, Ciudad: Allappuzha Alleppey, Numero de direcciones: 1
+ID: 19, Ciudad: Allende, Numero de direcciones: 1
+ID: 20, Ciudad: Almirante Brown, Numero de direcciones: 1
+ID: 21, Ciudad: Alvorada, Numero de direcciones: 0
+ID: 22, Ciudad: Ambattur, Numero de direcciones: 1
+ID: 23, Ciudad: Amersfoort, Numero de direcciones: 1
+ID: 24, Ciudad: Amroha, Numero de direcciones: 0
+ID: 25, Ciudad: Angra dos Reis, Numero de direcciones: 1
+ID: 26, Ciudad: Anpolis, Numero de direcciones: 1
+ID: 27, Ciudad: Antofagasta, Numero de direcciones: 1
+ID: 28, Ciudad: Aparecida de Goinia, Numero de direcciones: 1
+ID: 29, Ciudad: Apeldoorn, Numero de direcciones: 1
+ID: 30, Ciudad: Araatuba, Numero de direcciones: 1
+ID: 31, Ciudad: Arak, Numero de direcciones: 1
+ID: 32, Ciudad: Arecibo, Numero de direcciones: 1
+ID: 33, Ciudad: Arlington, Numero de direcciones: 1
+ID: 34, Ciudad: Ashdod, Numero de direcciones: 1
+ID: 35, Ciudad: Ashgabat, Numero de direcciones: 1
+ID: 36, Ciudad: Ashqelon, Numero de direcciones: 0
+ID: 37, Ciudad: Asuncin, Numero de direcciones: 1
+ID: 38, Ciudad: Athenai, Numero de direcciones: 1
+ID: 39, Ciudad: Atinsk, Numero de direcciones: 1
+ID: 40, Ciudad: Atlixco, Numero de direcciones: 1
+ID: 41, Ciudad: Augusta-Richmond County, Numero de direcciones: 1
+ID: 42, Ciudad: Aurora, Numero de direcciones: 1
+ID: 43, Ciudad: Avellaneda, Numero de direcciones: 0
+ID: 44, Ciudad: Bag, Numero de direcciones: 1
+ID: 45, Ciudad: Baha Blanca, Numero de direcciones: 1
+ID: 46, Ciudad: Baicheng, Numero de direcciones: 0
+ID: 47, Ciudad: Baiyin, Numero de direcciones: 0
+ID: 48, Ciudad: Baku, Numero de direcciones: 1
+ID: 49, Ciudad: Balaiha, Numero de direcciones: 1
+ID: 50, Ciudad: Balikesir, Numero de direcciones: 1
+ID: 51, Ciudad: Balurghat, Numero de direcciones: 1
+ID: 52, Ciudad: Bamenda, Numero de direcciones: 1
+ID: 53, Ciudad: Bandar Seri Begawan, Numero de direcciones: 1
+ID: 54, Ciudad: Banjul, Numero de direcciones: 0
+ID: 55, Ciudad: Barcelona, Numero de direcciones: 0
+ID: 56, Ciudad: Basel, Numero de direcciones: 1
+ID: 57, Ciudad: Bat Yam, Numero de direcciones: 1
+ID: 58, Ciudad: Batman, Numero de direcciones: 1
+ID: 59, Ciudad: Batna, Numero de direcciones: 1
+ID: 60, Ciudad: Battambang, Numero de direcciones: 0
+ID: 61, Ciudad: Baybay, Numero de direcciones: 1
+ID: 62, Ciudad: Bayugan, Numero de direcciones: 1
+ID: 63, Ciudad: Bchar, Numero de direcciones: 1
+ID: 64, Ciudad: Beira, Numero de direcciones: 1
+ID: 65, Ciudad: Bellevue, Numero de direcciones: 1
+ID: 66, Ciudad: Belm, Numero de direcciones: 1
+ID: 67, Ciudad: Benguela, Numero de direcciones: 0
+ID: 68, Ciudad: Beni-Mellal, Numero de direcciones: 0
+ID: 69, Ciudad: Benin City, Numero de direcciones: 1
+ID: 70, Ciudad: Bergamo, Numero de direcciones: 1
+ID: 71, Ciudad: Berhampore Baharampur, Numero de direcciones: 1
+ID: 72, Ciudad: Bern, Numero de direcciones: 1
+ID: 73, Ciudad: Bhavnagar, Numero de direcciones: 1
+ID: 74, Ciudad: Bhilwara, Numero de direcciones: 1
+ID: 75, Ciudad: Bhimavaram, Numero de direcciones: 0
+ID: 76, Ciudad: Bhopal, Numero de direcciones: 1
+ID: 77, Ciudad: Bhusawal, Numero de direcciones: 1
+ID: 78, Ciudad: Bijapur, Numero de direcciones: 1
+ID: 79, Ciudad: Bilbays, Numero de direcciones: 0
+ID: 80, Ciudad: Binzhou, Numero de direcciones: 0
+ID: 81, Ciudad: Birgunj, Numero de direcciones: 1
+ID: 82, Ciudad: Bislig, Numero de direcciones: 1
+ID: 83, Ciudad: Blumenau, Numero de direcciones: 1
+ID: 84, Ciudad: Boa Vista, Numero de direcciones: 1
+ID: 85, Ciudad: Boksburg, Numero de direcciones: 1
+ID: 86, Ciudad: Botosani, Numero de direcciones: 1
+ID: 87, Ciudad: Botshabelo, Numero de direcciones: 1
+ID: 88, Ciudad: Bradford, Numero de direcciones: 1
+ID: 89, Ciudad: Braslia, Numero de direcciones: 1
+ID: 90, Ciudad: Bratislava, Numero de direcciones: 1
+ID: 91, Ciudad: Brescia, Numero de direcciones: 1
+ID: 92, Ciudad: Brest, Numero de direcciones: 1
+ID: 93, Ciudad: Brindisi, Numero de direcciones: 0
+ID: 94, Ciudad: Brockton, Numero de direcciones: 1
+ID: 95, Ciudad: Bucuresti, Numero de direcciones: 0
+ID: 96, Ciudad: Buenaventura, Numero de direcciones: 1
+ID: 97, Ciudad: Bydgoszcz, Numero de direcciones: 1
+ID: 98, Ciudad: Cabuyao, Numero de direcciones: 1
+ID: 99, Ciudad: Callao, Numero de direcciones: 1
+ID: 100, Ciudad: Cam Ranh, Numero de direcciones: 0
+ID: 101, Ciudad: Cape Coral, Numero de direcciones: 0
+ID: 102, Ciudad: Caracas, Numero de direcciones: 1
+ID: 103, Ciudad: Carmen, Numero de direcciones: 0
+ID: 104, Ciudad: Cavite, Numero de direcciones: 1
+ID: 105, Ciudad: Cayenne, Numero de direcciones: 1
+ID: 106, Ciudad: Celaya, Numero de direcciones: 0
+ID: 107, Ciudad: Chandrapur, Numero de direcciones: 1
+ID: 108, Ciudad: Changhwa, Numero de direcciones: 1
+ID: 109, Ciudad: Changzhou, Numero de direcciones: 1
+ID: 110, Ciudad: Chapra, Numero de direcciones: 0
+ID: 111, Ciudad: Charlotte Amalie, Numero de direcciones: 1
+ID: 112, Ciudad: Chatsworth, Numero de direcciones: 0
+ID: 113, Ciudad: Cheju, Numero de direcciones: 1
+ID: 114, Ciudad: Chiayi, Numero de direcciones: 1
+ID: 115, Ciudad: Chisinau, Numero de direcciones: 1
+ID: 116, Ciudad: Chungho, Numero de direcciones: 0
+ID: 117, Ciudad: Cianjur, Numero de direcciones: 1
+ID: 118, Ciudad: Ciomas, Numero de direcciones: 1
+ID: 119, Ciudad: Ciparay, Numero de direcciones: 1
+ID: 120, Ciudad: Citrus Heights, Numero de direcciones: 1
+ID: 121, Ciudad: Citt del Vaticano, Numero de direcciones: 1
+ID: 122, Ciudad: Ciudad del Este, Numero de direcciones: 1
+ID: 123, Ciudad: Clarksville, Numero de direcciones: 1
+ID: 124, Ciudad: Coacalco de Berriozbal, Numero de direcciones: 1
+ID: 125, Ciudad: Coatzacoalcos, Numero de direcciones: 0
+ID: 126, Ciudad: Compton, Numero de direcciones: 1
+ID: 127, Ciudad: Coquimbo, Numero de direcciones: 0
+ID: 128, Ciudad: Crdoba, Numero de direcciones: 1
+ID: 129, Ciudad: Cuauhtmoc, Numero de direcciones: 1
+ID: 130, Ciudad: Cuautla, Numero de direcciones: 1
+ID: 131, Ciudad: Cuernavaca, Numero de direcciones: 0
+ID: 132, Ciudad: Cuman, Numero de direcciones: 1
+ID: 133, Ciudad: Czestochowa, Numero de direcciones: 0
+ID: 134, Ciudad: Dadu, Numero de direcciones: 1
+ID: 135, Ciudad: Dallas, Numero de direcciones: 1
+ID: 136, Ciudad: Datong, Numero de direcciones: 1
+ID: 137, Ciudad: Daugavpils, Numero de direcciones: 1
+ID: 138, Ciudad: Davao, Numero de direcciones: 1
+ID: 139, Ciudad: Daxian, Numero de direcciones: 1
+ID: 140, Ciudad: Dayton, Numero de direcciones: 1
+ID: 141, Ciudad: Deba Habe, Numero de direcciones: 1
+ID: 142, Ciudad: Denizli, Numero de direcciones: 0
+ID: 143, Ciudad: Dhaka, Numero de direcciones: 1
+ID: 144, Ciudad: Dhule Dhulia, Numero de direcciones: 1
+ID: 145, Ciudad: Dongying, Numero de direcciones: 1
+ID: 146, Ciudad: Donostia-San Sebastin, Numero de direcciones: 1
+ID: 147, Ciudad: Dos Quebradas, Numero de direcciones: 1
+ID: 148, Ciudad: Duisburg, Numero de direcciones: 1
+ID: 149, Ciudad: Dundee, Numero de direcciones: 1
+ID: 150, Ciudad: Dzerzinsk, Numero de direcciones: 1
+ID: 151, Ciudad: Ede, Numero de direcciones: 1
+ID: 152, Ciudad: Effon-Alaiye, Numero de direcciones: 1
+ID: 153, Ciudad: El Alto, Numero de direcciones: 1
+ID: 154, Ciudad: El Fuerte, Numero de direcciones: 1
+ID: 155, Ciudad: El Monte, Numero de direcciones: 1
+ID: 156, Ciudad: Elista, Numero de direcciones: 1
+ID: 157, Ciudad: Emeishan, Numero de direcciones: 1
+ID: 158, Ciudad: Emmen, Numero de direcciones: 0
+ID: 159, Ciudad: Enshi, Numero de direcciones: 1
+ID: 160, Ciudad: Erlangen, Numero de direcciones: 1
+ID: 161, Ciudad: Escobar, Numero de direcciones: 1
+ID: 162, Ciudad: Esfahan, Numero de direcciones: 1
+ID: 163, Ciudad: Eskisehir, Numero de direcciones: 0
+ID: 164, Ciudad: Etawah, Numero de direcciones: 1
+ID: 165, Ciudad: Ezeiza, Numero de direcciones: 0
+ID: 166, Ciudad: Ezhou, Numero de direcciones: 1
+ID: 167, Ciudad: Faaa, Numero de direcciones: 1
+ID: 168, Ciudad: Fengshan, Numero de direcciones: 0
+ID: 169, Ciudad: Firozabad, Numero de direcciones: 1
+ID: 170, Ciudad: Florencia, Numero de direcciones: 1
+ID: 171, Ciudad: Fontana, Numero de direcciones: 1
+ID: 172, Ciudad: Fukuyama, Numero de direcciones: 1
+ID: 173, Ciudad: Funafuti, Numero de direcciones: 1
+ID: 174, Ciudad: Fuyu, Numero de direcciones: 1
+ID: 175, Ciudad: Fuzhou, Numero de direcciones: 1
+ID: 176, Ciudad: Gandhinagar, Numero de direcciones: 1
+ID: 177, Ciudad: Garden Grove, Numero de direcciones: 0
+ID: 178, Ciudad: Garland, Numero de direcciones: 0
+ID: 179, Ciudad: Gatineau, Numero de direcciones: 0
+ID: 180, Ciudad: Gaziantep, Numero de direcciones: 0
+ID: 181, Ciudad: Gijn, Numero de direcciones: 1
+ID: 182, Ciudad: Gingoog, Numero de direcciones: 1
+ID: 183, Ciudad: Goinia, Numero de direcciones: 1
+ID: 184, Ciudad: Gorontalo, Numero de direcciones: 1
+ID: 185, Ciudad: Grand Prairie, Numero de direcciones: 1
+ID: 186, Ciudad: Graz, Numero de direcciones: 1
+ID: 187, Ciudad: Greensboro, Numero de direcciones: 1
+ID: 188, Ciudad: Guadalajara, Numero de direcciones: 1
+ID: 189, Ciudad: Guaruj, Numero de direcciones: 1
+ID: 190, Ciudad: guas Lindas de Gois, Numero de direcciones: 1
+ID: 191, Ciudad: Gulbarga, Numero de direcciones: 1
+ID: 192, Ciudad: Hagonoy, Numero de direcciones: 1
+ID: 193, Ciudad: Haining, Numero de direcciones: 0
+ID: 194, Ciudad: Haiphong, Numero de direcciones: 1
+ID: 195, Ciudad: Haldia, Numero de direcciones: 1
+ID: 196, Ciudad: Halifax, Numero de direcciones: 1
+ID: 197, Ciudad: Halisahar, Numero de direcciones: 1
+ID: 198, Ciudad: Halle/Saale, Numero de direcciones: 1
+ID: 199, Ciudad: Hami, Numero de direcciones: 1
+ID: 200, Ciudad: Hamilton, Numero de direcciones: 1
+ID: 201, Ciudad: Hanoi, Numero de direcciones: 1
+ID: 202, Ciudad: Hidalgo, Numero de direcciones: 1
+ID: 203, Ciudad: Higashiosaka, Numero de direcciones: 1
+ID: 204, Ciudad: Hino, Numero de direcciones: 1
+ID: 205, Ciudad: Hiroshima, Numero de direcciones: 1
+ID: 206, Ciudad: Hodeida, Numero de direcciones: 1
+ID: 207, Ciudad: Hohhot, Numero de direcciones: 1
+ID: 208, Ciudad: Hoshiarpur, Numero de direcciones: 1
+ID: 209, Ciudad: Hsichuh, Numero de direcciones: 1
+ID: 210, Ciudad: Huaian, Numero de direcciones: 1
+ID: 211, Ciudad: Hubli-Dharwad, Numero de direcciones: 1
+ID: 212, Ciudad: Huejutla de Reyes, Numero de direcciones: 0
+ID: 213, Ciudad: Huixquilucan, Numero de direcciones: 1
+ID: 214, Ciudad: Hunuco, Numero de direcciones: 0
+ID: 215, Ciudad: Ibirit, Numero de direcciones: 1
+ID: 216, Ciudad: Idfu, Numero de direcciones: 1
+ID: 217, Ciudad: Ife, Numero de direcciones: 1
+ID: 218, Ciudad: Ikerre, Numero de direcciones: 1
+ID: 219, Ciudad: Iligan, Numero de direcciones: 0
+ID: 220, Ciudad: Ilorin, Numero de direcciones: 1
+ID: 221, Ciudad: Imus, Numero de direcciones: 1
+ID: 222, Ciudad: Inegl, Numero de direcciones: 1
+ID: 223, Ciudad: Ipoh, Numero de direcciones: 1
+ID: 224, Ciudad: Isesaki, Numero de direcciones: 0
+ID: 225, Ciudad: Ivanovo, Numero de direcciones: 1
+ID: 226, Ciudad: Iwaki, Numero de direcciones: 1
+ID: 227, Ciudad: Iwakuni, Numero de direcciones: 1
+ID: 228, Ciudad: Iwatsuki, Numero de direcciones: 1
+ID: 229, Ciudad: Izumisano, Numero de direcciones: 1
+ID: 230, Ciudad: Jaffna, Numero de direcciones: 1
+ID: 231, Ciudad: Jaipur, Numero de direcciones: 1
+ID: 232, Ciudad: Jakarta, Numero de direcciones: 1
+ID: 233, Ciudad: Jalib al-Shuyukh, Numero de direcciones: 1
+ID: 234, Ciudad: Jamalpur, Numero de direcciones: 1
+ID: 235, Ciudad: Jaroslavl, Numero de direcciones: 1
+ID: 236, Ciudad: Jastrzebie-Zdrj, Numero de direcciones: 1
+ID: 237, Ciudad: Jedda, Numero de direcciones: 1
+ID: 238, Ciudad: Jelets, Numero de direcciones: 1
+ID: 239, Ciudad: Jhansi, Numero de direcciones: 1
+ID: 240, Ciudad: Jinchang, Numero de direcciones: 1
+ID: 241, Ciudad: Jining, Numero de direcciones: 0
+ID: 242, Ciudad: Jinzhou, Numero de direcciones: 0
+ID: 243, Ciudad: Jodhpur, Numero de direcciones: 1
+ID: 244, Ciudad: Johannesburg, Numero de direcciones: 1
+ID: 245, Ciudad: Joliet, Numero de direcciones: 0
+ID: 246, Ciudad: Jos Azueta, Numero de direcciones: 0
+ID: 247, Ciudad: Juazeiro do Norte, Numero de direcciones: 1
+ID: 248, Ciudad: Juiz de Fora, Numero de direcciones: 0
+ID: 249, Ciudad: Junan, Numero de direcciones: 1
+ID: 250, Ciudad: Jurez, Numero de direcciones: 1
+ID: 251, Ciudad: Kabul, Numero de direcciones: 1
+ID: 252, Ciudad: Kaduna, Numero de direcciones: 1
+ID: 253, Ciudad: Kakamigahara, Numero de direcciones: 1
+ID: 254, Ciudad: Kaliningrad, Numero de direcciones: 1
+ID: 255, Ciudad: Kalisz, Numero de direcciones: 1
+ID: 256, Ciudad: Kamakura, Numero de direcciones: 1
+ID: 257, Ciudad: Kamarhati, Numero de direcciones: 1
+ID: 258, Ciudad: Kamjanets-Podilskyi, Numero de direcciones: 1
+ID: 259, Ciudad: Kamyin, Numero de direcciones: 0
+ID: 260, Ciudad: Kanazawa, Numero de direcciones: 0
+ID: 261, Ciudad: Kanchrapara, Numero de direcciones: 0
+ID: 262, Ciudad: Kansas City, Numero de direcciones: 1
+ID: 263, Ciudad: Karnal, Numero de direcciones: 1
+ID: 264, Ciudad: Katihar, Numero de direcciones: 1
+ID: 265, Ciudad: Kermanshah, Numero de direcciones: 1
+ID: 266, Ciudad: Kilis, Numero de direcciones: 1
+ID: 267, Ciudad: Kimberley, Numero de direcciones: 1
+ID: 268, Ciudad: Kimchon, Numero de direcciones: 1
+ID: 269, Ciudad: Kingstown, Numero de direcciones: 1
+ID: 270, Ciudad: Kirovo-Tepetsk, Numero de direcciones: 1
+ID: 271, Ciudad: Kisumu, Numero de direcciones: 1
+ID: 272, Ciudad: Kitwe, Numero de direcciones: 1
+ID: 273, Ciudad: Klerksdorp, Numero de direcciones: 1
+ID: 274, Ciudad: Kolpino, Numero de direcciones: 1
+ID: 275, Ciudad: Konotop, Numero de direcciones: 0
+ID: 276, Ciudad: Koriyama, Numero de direcciones: 1
+ID: 277, Ciudad: Korla, Numero de direcciones: 1
+ID: 278, Ciudad: Korolev, Numero de direcciones: 1
+ID: 279, Ciudad: Kowloon and New Kowloon, Numero de direcciones: 1
+ID: 280, Ciudad: Kragujevac, Numero de direcciones: 1
+ID: 281, Ciudad: Ktahya, Numero de direcciones: 1
+ID: 282, Ciudad: Kuching, Numero de direcciones: 1
+ID: 283, Ciudad: Kumbakonam, Numero de direcciones: 1
+ID: 284, Ciudad: Kurashiki, Numero de direcciones: 1
+ID: 285, Ciudad: Kurgan, Numero de direcciones: 1
+ID: 286, Ciudad: Kursk, Numero de direcciones: 1
+ID: 287, Ciudad: Kuwana, Numero de direcciones: 0
+ID: 288, Ciudad: La Paz, Numero de direcciones: 0
+ID: 289, Ciudad: La Plata, Numero de direcciones: 1
+ID: 290, Ciudad: La Romana, Numero de direcciones: 1
+ID: 291, Ciudad: Laiwu, Numero de direcciones: 1
+ID: 292, Ciudad: Lancaster, Numero de direcciones: 1
+ID: 293, Ciudad: Laohekou, Numero de direcciones: 1
+ID: 294, Ciudad: Lapu-Lapu, Numero de direcciones: 1
+ID: 295, Ciudad: Laredo, Numero de direcciones: 1
+ID: 296, Ciudad: Lausanne, Numero de direcciones: 0
+ID: 297, Ciudad: Le Mans, Numero de direcciones: 1
+ID: 298, Ciudad: Lengshuijiang, Numero de direcciones: 1
+ID: 299, Ciudad: Leshan, Numero de direcciones: 0
+ID: 300, Ciudad: Lethbridge, Numero de direcciones: 2
+ID: 301, Ciudad: Lhokseumawe, Numero de direcciones: 0
+ID: 302, Ciudad: Liaocheng, Numero de direcciones: 1
+ID: 303, Ciudad: Liepaja, Numero de direcciones: 1
+ID: 304, Ciudad: Lilongwe, Numero de direcciones: 1
+ID: 305, Ciudad: Lima, Numero de direcciones: 1
+ID: 306, Ciudad: Lincoln, Numero de direcciones: 1
+ID: 307, Ciudad: Linz, Numero de direcciones: 1
+ID: 308, Ciudad: Lipetsk, Numero de direcciones: 1
+ID: 309, Ciudad: Livorno, Numero de direcciones: 0
+ID: 310, Ciudad: Ljubertsy, Numero de direcciones: 1
+ID: 311, Ciudad: Loja, Numero de direcciones: 0
+ID: 312, Ciudad: London, Numero de direcciones: 1
+ID: 313, Ciudad: London, Numero de direcciones: 0
+ID: 314, Ciudad: Lublin, Numero de direcciones: 0
+ID: 315, Ciudad: Lubumbashi, Numero de direcciones: 1
+ID: 316, Ciudad: Lungtan, Numero de direcciones: 1
+ID: 317, Ciudad: Luzinia, Numero de direcciones: 1
+ID: 318, Ciudad: Madiun, Numero de direcciones: 0
+ID: 319, Ciudad: Mahajanga, Numero de direcciones: 1
+ID: 320, Ciudad: Maikop, Numero de direcciones: 1
+ID: 321, Ciudad: Malm, Numero de direcciones: 1
+ID: 322, Ciudad: Manchester, Numero de direcciones: 1
+ID: 323, Ciudad: Mandaluyong, Numero de direcciones: 1
+ID: 324, Ciudad: Mandi Bahauddin, Numero de direcciones: 1
+ID: 325, Ciudad: Mannheim, Numero de direcciones: 1
+ID: 326, Ciudad: Maracabo, Numero de direcciones: 1
+ID: 327, Ciudad: Mardan, Numero de direcciones: 1
+ID: 328, Ciudad: Maring, Numero de direcciones: 1
+ID: 329, Ciudad: Masqat, Numero de direcciones: 1
+ID: 330, Ciudad: Matamoros, Numero de direcciones: 1
+ID: 331, Ciudad: Matsue, Numero de direcciones: 1
+ID: 332, Ciudad: Meixian, Numero de direcciones: 1
+ID: 333, Ciudad: Memphis, Numero de direcciones: 1
+ID: 334, Ciudad: Merlo, Numero de direcciones: 1
+ID: 335, Ciudad: Mexicali, Numero de direcciones: 1
+ID: 336, Ciudad: Miraj, Numero de direcciones: 1
+ID: 337, Ciudad: Mit Ghamr, Numero de direcciones: 0
+ID: 338, Ciudad: Miyakonojo, Numero de direcciones: 1
+ID: 339, Ciudad: Mogiljov, Numero de direcciones: 0
+ID: 340, Ciudad: Molodetno, Numero de direcciones: 1
+ID: 341, Ciudad: Monclova, Numero de direcciones: 0
+ID: 342, Ciudad: Monywa, Numero de direcciones: 1
+ID: 343, Ciudad: Moscow, Numero de direcciones: 1
+ID: 344, Ciudad: Mosul, Numero de direcciones: 0
+ID: 345, Ciudad: Mukateve, Numero de direcciones: 1
+ID: 346, Ciudad: Munger Monghyr, Numero de direcciones: 1
+ID: 347, Ciudad: Mwanza, Numero de direcciones: 0
+ID: 348, Ciudad: Mwene-Ditu, Numero de direcciones: 1
+ID: 349, Ciudad: Myingyan, Numero de direcciones: 1
+ID: 350, Ciudad: Mysore, Numero de direcciones: 1
+ID: 351, Ciudad: Naala-Porto, Numero de direcciones: 1
+ID: 352, Ciudad: Nabereznyje Telny, Numero de direcciones: 1
+ID: 353, Ciudad: Nador, Numero de direcciones: 1
+ID: 354, Ciudad: Nagaon, Numero de direcciones: 1
+ID: 355, Ciudad: Nagareyama, Numero de direcciones: 1
+ID: 356, Ciudad: Najafabad, Numero de direcciones: 1
+ID: 357, Ciudad: Naju, Numero de direcciones: 1
+ID: 358, Ciudad: Nakhon Sawan, Numero de direcciones: 1
+ID: 359, Ciudad: Nam Dinh, Numero de direcciones: 1
+ID: 360, Ciudad: Namibe, Numero de direcciones: 1
+ID: 361, Ciudad: Nantou, Numero de direcciones: 1
+ID: 362, Ciudad: Nanyang, Numero de direcciones: 1
+ID: 363, Ciudad: NDjamna, Numero de direcciones: 0
+ID: 364, Ciudad: Newcastle, Numero de direcciones: 1
+ID: 365, Ciudad: Nezahualcyotl, Numero de direcciones: 1
+ID: 366, Ciudad: Nha Trang, Numero de direcciones: 0
+ID: 367, Ciudad: Niznekamsk, Numero de direcciones: 1
+ID: 368, Ciudad: Novi Sad, Numero de direcciones: 0
+ID: 369, Ciudad: Novoterkassk, Numero de direcciones: 1
+ID: 370, Ciudad: Nukualofa, Numero de direcciones: 1
+ID: 371, Ciudad: Nuuk, Numero de direcciones: 1
+ID: 372, Ciudad: Nyeri, Numero de direcciones: 1
+ID: 373, Ciudad: Ocumare del Tuy, Numero de direcciones: 1
+ID: 374, Ciudad: Ogbomosho, Numero de direcciones: 1
+ID: 375, Ciudad: Okara, Numero de direcciones: 1
+ID: 376, Ciudad: Okayama, Numero de direcciones: 0
+ID: 377, Ciudad: Okinawa, Numero de direcciones: 1
+ID: 378, Ciudad: Olomouc, Numero de direcciones: 1
+ID: 379, Ciudad: Omdurman, Numero de direcciones: 1
+ID: 380, Ciudad: Omiya, Numero de direcciones: 1
+ID: 381, Ciudad: Ondo, Numero de direcciones: 1
+ID: 382, Ciudad: Onomichi, Numero de direcciones: 1
+ID: 383, Ciudad: Oshawa, Numero de direcciones: 1
+ID: 384, Ciudad: Osmaniye, Numero de direcciones: 1
+ID: 385, Ciudad: ostka, Numero de direcciones: 0
+ID: 386, Ciudad: Otsu, Numero de direcciones: 1
+ID: 387, Ciudad: Oulu, Numero de direcciones: 1
+ID: 388, Ciudad: Ourense Orense, Numero de direcciones: 1
+ID: 389, Ciudad: Owo, Numero de direcciones: 1
+ID: 390, Ciudad: Oyo, Numero de direcciones: 1
+ID: 391, Ciudad: Ozamis, Numero de direcciones: 1
+ID: 392, Ciudad: Paarl, Numero de direcciones: 1
+ID: 393, Ciudad: Pachuca de Soto, Numero de direcciones: 1
+ID: 394, Ciudad: Pak Kret, Numero de direcciones: 1
+ID: 395, Ciudad: Palghat Palakkad, Numero de direcciones: 1
+ID: 396, Ciudad: Pangkal Pinang, Numero de direcciones: 0
+ID: 397, Ciudad: Papeete, Numero de direcciones: 1
+ID: 398, Ciudad: Parbhani, Numero de direcciones: 1
+ID: 399, Ciudad: Pathankot, Numero de direcciones: 1
+ID: 400, Ciudad: Patiala, Numero de direcciones: 1
+ID: 401, Ciudad: Patras, Numero de direcciones: 0
+ID: 402, Ciudad: Pavlodar, Numero de direcciones: 1
+ID: 403, Ciudad: Pemalang, Numero de direcciones: 1
+ID: 404, Ciudad: Peoria, Numero de direcciones: 1
+ID: 405, Ciudad: Pereira, Numero de direcciones: 1
+ID: 406, Ciudad: Phnom Penh, Numero de direcciones: 1
+ID: 407, Ciudad: Pingxiang, Numero de direcciones: 1
+ID: 408, Ciudad: Pjatigorsk, Numero de direcciones: 0
+ID: 409, Ciudad: Plock, Numero de direcciones: 0
+ID: 410, Ciudad: Po, Numero de direcciones: 1
+ID: 411, Ciudad: Ponce, Numero de direcciones: 1
+ID: 412, Ciudad: Pontianak, Numero de direcciones: 0
+ID: 413, Ciudad: Poos de Caldas, Numero de direcciones: 1
+ID: 414, Ciudad: Portoviejo, Numero de direcciones: 1
+ID: 415, Ciudad: Probolinggo, Numero de direcciones: 1
+ID: 416, Ciudad: Pudukkottai, Numero de direcciones: 1
+ID: 417, Ciudad: Pune, Numero de direcciones: 1
+ID: 418, Ciudad: Purnea Purnia, Numero de direcciones: 1
+ID: 419, Ciudad: Purwakarta, Numero de direcciones: 0
+ID: 420, Ciudad: Pyongyang, Numero de direcciones: 1
+ID: 421, Ciudad: Qalyub, Numero de direcciones: 1
+ID: 422, Ciudad: Qinhuangdao, Numero de direcciones: 1
+ID: 423, Ciudad: Qomsheh, Numero de direcciones: 1
+ID: 424, Ciudad: Quilmes, Numero de direcciones: 0
+ID: 425, Ciudad: Rae Bareli, Numero de direcciones: 1
+ID: 426, Ciudad: Rajkot, Numero de direcciones: 0
+ID: 427, Ciudad: Rampur, Numero de direcciones: 1
+ID: 428, Ciudad: Rancagua, Numero de direcciones: 1
+ID: 429, Ciudad: Ranchi, Numero de direcciones: 1
+ID: 430, Ciudad: Richmond Hill, Numero de direcciones: 1
+ID: 431, Ciudad: Rio Claro, Numero de direcciones: 1
+ID: 432, Ciudad: Rizhao, Numero de direcciones: 0
+ID: 433, Ciudad: Roanoke, Numero de direcciones: 1
+ID: 434, Ciudad: Robamba, Numero de direcciones: 0
+ID: 435, Ciudad: Rockford, Numero de direcciones: 1
+ID: 436, Ciudad: Ruse, Numero de direcciones: 0
+ID: 437, Ciudad: Rustenburg, Numero de direcciones: 1
+ID: 438, Ciudad: s-Hertogenbosch, Numero de direcciones: 1
+ID: 439, Ciudad: Saarbrcken, Numero de direcciones: 1
+ID: 440, Ciudad: Sagamihara, Numero de direcciones: 1
+ID: 441, Ciudad: Saint Louis, Numero de direcciones: 1
+ID: 442, Ciudad: Saint-Denis, Numero de direcciones: 1
+ID: 443, Ciudad: Sal, Numero de direcciones: 1
+ID: 444, Ciudad: Salala, Numero de direcciones: 0
+ID: 445, Ciudad: Salamanca, Numero de direcciones: 1
+ID: 446, Ciudad: Salinas, Numero de direcciones: 1
+ID: 447, Ciudad: Salzburg, Numero de direcciones: 1
+ID: 448, Ciudad: Sambhal, Numero de direcciones: 1
+ID: 449, Ciudad: San Bernardino, Numero de direcciones: 1
+ID: 450, Ciudad: San Felipe de Puerto Plata, Numero de direcciones: 1
+ID: 451, Ciudad: San Felipe del Progreso, Numero de direcciones: 1
+ID: 452, Ciudad: San Juan Bautista Tuxtepec, Numero de direcciones: 1
+ID: 453, Ciudad: San Lorenzo, Numero de direcciones: 1
+ID: 454, Ciudad: San Miguel de Tucumn, Numero de direcciones: 1
+ID: 455, Ciudad: Sanaa, Numero de direcciones: 1
+ID: 456, Ciudad: Santa Brbara dOeste, Numero de direcciones: 1
+ID: 457, Ciudad: Santa F, Numero de direcciones: 1
+ID: 458, Ciudad: Santa Rosa, Numero de direcciones: 0
+ID: 459, Ciudad: Santiago de Compostela, Numero de direcciones: 0
+ID: 460, Ciudad: Santiago de los Caballeros, Numero de direcciones: 1
+ID: 461, Ciudad: Santo Andr, Numero de direcciones: 1
+ID: 462, Ciudad: Sanya, Numero de direcciones: 0
+ID: 463, Ciudad: Sasebo, Numero de direcciones: 1
+ID: 464, Ciudad: Satna, Numero de direcciones: 1
+ID: 465, Ciudad: Sawhaj, Numero de direcciones: 1
+ID: 466, Ciudad: Serpuhov, Numero de direcciones: 0
+ID: 467, Ciudad: Shahr-e Kord, Numero de direcciones: 1
+ID: 468, Ciudad: Shanwei, Numero de direcciones: 1
+ID: 469, Ciudad: Shaoguan, Numero de direcciones: 0
+ID: 470, Ciudad: Sharja, Numero de direcciones: 1
+ID: 471, Ciudad: Shenzhen, Numero de direcciones: 1
+ID: 472, Ciudad: Shikarpur, Numero de direcciones: 1
+ID: 473, Ciudad: Shimoga, Numero de direcciones: 1
+ID: 474, Ciudad: Shimonoseki, Numero de direcciones: 1
+ID: 475, Ciudad: Shivapuri, Numero de direcciones: 1
+ID: 476, Ciudad: Shubra al-Khayma, Numero de direcciones: 1
+ID: 477, Ciudad: Siegen, Numero de direcciones: 1
+ID: 478, Ciudad: Siliguri Shiliguri, Numero de direcciones: 0
+ID: 479, Ciudad: Simferopol, Numero de direcciones: 1
+ID: 480, Ciudad: Sincelejo, Numero de direcciones: 1
+ID: 481, Ciudad: Sirjan, Numero de direcciones: 1
+ID: 482, Ciudad: Sivas, Numero de direcciones: 0
+ID: 483, Ciudad: Skikda, Numero de direcciones: 1
+ID: 484, Ciudad: Smolensk, Numero de direcciones: 1
+ID: 485, Ciudad: So Bernardo do Campo, Numero de direcciones: 0
+ID: 486, Ciudad: So Leopoldo, Numero de direcciones: 1
+ID: 487, Ciudad: Sogamoso, Numero de direcciones: 0
+ID: 488, Ciudad: Sokoto, Numero de direcciones: 0
+ID: 489, Ciudad: Songkhla, Numero de direcciones: 1
+ID: 490, Ciudad: Sorocaba, Numero de direcciones: 1
+ID: 491, Ciudad: Soshanguve, Numero de direcciones: 1
+ID: 492, Ciudad: Sousse, Numero de direcciones: 1
+ID: 493, Ciudad: South Hill, Numero de direcciones: 1
+ID: 494, Ciudad: Southampton, Numero de direcciones: 0
+ID: 495, Ciudad: Southend-on-Sea, Numero de direcciones: 1
+ID: 496, Ciudad: Southport, Numero de direcciones: 0
+ID: 497, Ciudad: Springs, Numero de direcciones: 1
+ID: 498, Ciudad: Stara Zagora, Numero de direcciones: 1
+ID: 499, Ciudad: Sterling Heights, Numero de direcciones: 1
+ID: 500, Ciudad: Stockport, Numero de direcciones: 0
+ID: 501, Ciudad: Sucre, Numero de direcciones: 1
+ID: 502, Ciudad: Suihua, Numero de direcciones: 0
+ID: 503, Ciudad: Sullana, Numero de direcciones: 0
+ID: 504, Ciudad: Sultanbeyli, Numero de direcciones: 0
+ID: 505, Ciudad: Sumqayit, Numero de direcciones: 1
+ID: 506, Ciudad: Sumy, Numero de direcciones: 1
+ID: 507, Ciudad: Sungai Petani, Numero de direcciones: 1
+ID: 508, Ciudad: Sunnyvale, Numero de direcciones: 1
+ID: 509, Ciudad: Surakarta, Numero de direcciones: 1
+ID: 510, Ciudad: Syktyvkar, Numero de direcciones: 1
+ID: 511, Ciudad: Syrakusa, Numero de direcciones: 1
+ID: 512, Ciudad: Szkesfehrvr, Numero de direcciones: 0
+ID: 513, Ciudad: Tabora, Numero de direcciones: 1
+ID: 514, Ciudad: Tabriz, Numero de direcciones: 1
+ID: 515, Ciudad: Tabuk, Numero de direcciones: 1
+ID: 516, Ciudad: Tafuna, Numero de direcciones: 1
+ID: 517, Ciudad: Taguig, Numero de direcciones: 1
+ID: 518, Ciudad: Taizz, Numero de direcciones: 1
+ID: 519, Ciudad: Talavera, Numero de direcciones: 0
+ID: 520, Ciudad: Tallahassee, Numero de direcciones: 1
+ID: 521, Ciudad: Tama, Numero de direcciones: 1
+ID: 522, Ciudad: Tambaram, Numero de direcciones: 1
+ID: 523, Ciudad: Tanauan, Numero de direcciones: 1
+ID: 524, Ciudad: Tandil, Numero de direcciones: 1
+ID: 525, Ciudad: Tangail, Numero de direcciones: 1
+ID: 526, Ciudad: Tanshui, Numero de direcciones: 0
+ID: 527, Ciudad: Tanza, Numero de direcciones: 1
+ID: 528, Ciudad: Tarlac, Numero de direcciones: 0
+ID: 529, Ciudad: Tarsus, Numero de direcciones: 1
+ID: 530, Ciudad: Tartu, Numero de direcciones: 1
+ID: 531, Ciudad: Teboksary, Numero de direcciones: 1
+ID: 532, Ciudad: Tegal, Numero de direcciones: 1
+ID: 533, Ciudad: Tel Aviv-Jaffa, Numero de direcciones: 1
+ID: 534, Ciudad: Tete, Numero de direcciones: 1
+ID: 535, Ciudad: Tianjin, Numero de direcciones: 1
+ID: 536, Ciudad: Tiefa, Numero de direcciones: 1
+ID: 537, Ciudad: Tieli, Numero de direcciones: 0
+ID: 538, Ciudad: Tokat, Numero de direcciones: 0
+ID: 539, Ciudad: Tonghae, Numero de direcciones: 0
+ID: 540, Ciudad: Tongliao, Numero de direcciones: 1
+ID: 541, Ciudad: Torren, Numero de direcciones: 1
+ID: 542, Ciudad: Touliu, Numero de direcciones: 1
+ID: 543, Ciudad: Toulon, Numero de direcciones: 1
+ID: 544, Ciudad: Toulouse, Numero de direcciones: 1
+ID: 545, Ciudad: Trshavn, Numero de direcciones: 1
+ID: 546, Ciudad: Tsaotun, Numero de direcciones: 0
+ID: 547, Ciudad: Tsuyama, Numero de direcciones: 1
+ID: 548, Ciudad: Tuguegarao, Numero de direcciones: 1
+ID: 549, Ciudad: Tychy, Numero de direcciones: 1
+ID: 550, Ciudad: Udaipur, Numero de direcciones: 1
+ID: 551, Ciudad: Udine, Numero de direcciones: 0
+ID: 552, Ciudad: Ueda, Numero de direcciones: 0
+ID: 553, Ciudad: Uijongbu, Numero de direcciones: 1
+ID: 554, Ciudad: Uluberia, Numero de direcciones: 1
+ID: 555, Ciudad: Urawa, Numero de direcciones: 1
+ID: 556, Ciudad: Uruapan, Numero de direcciones: 1
+ID: 557, Ciudad: Usak, Numero de direcciones: 1
+ID: 558, Ciudad: Usolje-Sibirskoje, Numero de direcciones: 1
+ID: 559, Ciudad: Uttarpara-Kotrung, Numero de direcciones: 1
+ID: 560, Ciudad: Vaduz, Numero de direcciones: 1
+ID: 561, Ciudad: Valencia, Numero de direcciones: 0
+ID: 562, Ciudad: Valle de la Pascua, Numero de direcciones: 1
+ID: 563, Ciudad: Valle de Santiago, Numero de direcciones: 1
+ID: 564, Ciudad: Valparai, Numero de direcciones: 1
+ID: 565, Ciudad: Vancouver, Numero de direcciones: 1
+ID: 566, Ciudad: Varanasi Benares, Numero de direcciones: 1
+ID: 567, Ciudad: Vicente Lpez, Numero de direcciones: 1
+ID: 568, Ciudad: Vijayawada, Numero de direcciones: 0
+ID: 569, Ciudad: Vila Velha, Numero de direcciones: 1
+ID: 570, Ciudad: Vilnius, Numero de direcciones: 0
+ID: 571, Ciudad: Vinh, Numero de direcciones: 0
+ID: 572, Ciudad: Vitria de Santo Anto, Numero de direcciones: 1
+ID: 573, Ciudad: Warren, Numero de direcciones: 1
+ID: 574, Ciudad: Weifang, Numero de direcciones: 0
+ID: 575, Ciudad: Witten, Numero de direcciones: 1
+ID: 576, Ciudad: Woodridge, Numero de direcciones: 2
+ID: 577, Ciudad: Wroclaw, Numero de direcciones: 0
+ID: 578, Ciudad: Xiangfan, Numero de direcciones: 1
+ID: 579, Ciudad: Xiangtan, Numero de direcciones: 1
+ID: 580, Ciudad: Xintai, Numero de direcciones: 0
+ID: 581, Ciudad: Xinxiang, Numero de direcciones: 1
+ID: 582, Ciudad: Yamuna Nagar, Numero de direcciones: 1
+ID: 583, Ciudad: Yangor, Numero de direcciones: 0
+ID: 584, Ciudad: Yantai, Numero de direcciones: 1
+ID: 585, Ciudad: Yaound, Numero de direcciones: 1
+ID: 586, Ciudad: Yerevan, Numero de direcciones: 1
+ID: 587, Ciudad: Yinchuan, Numero de direcciones: 0
+ID: 588, Ciudad: Yingkou, Numero de direcciones: 0
+ID: 589, Ciudad: York, Numero de direcciones: 0
+ID: 590, Ciudad: Yuncheng, Numero de direcciones: 1
+ID: 591, Ciudad: Yuzhou, Numero de direcciones: 1
+ID: 592, Ciudad: Zalantun, Numero de direcciones: 1
+ID: 593, Ciudad: Zanzibar, Numero de direcciones: 1
+ID: 594, Ciudad: Zaoyang, Numero de direcciones: 0
+ID: 595, Ciudad: Zapopan, Numero de direcciones: 1
+ID: 596, Ciudad: Zaria, Numero de direcciones: 1
+ID: 597, Ciudad: Zeleznogorsk, Numero de direcciones: 1
+ID: 598, Ciudad: Zhezqazghan, Numero de direcciones: 0
+ID: 599, Ciudad: Zhoushan, Numero de direcciones: 0
+ID: 600, Ciudad: Ziguinchor, Numero de direcciones: 1
